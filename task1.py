@@ -1,2 +1,2 @@
-name="The 100"
+name="Mr.Robot"
 print(name[1:])
